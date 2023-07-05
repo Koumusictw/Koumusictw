@@ -1,9 +1,11 @@
 ### Hi there 👋
-print(=let Koumusictw = )/t
-print(Name: 郭仲曜)/t
-print(Age: 16)/t
-print(Hope: "Get a computer that can be programmed smoothly. .-. ")/t
-print(Description: "I am learning to C++ and Python、HTML.")/t
-print(FavouriteLanguage: "Python")/t
-print(FavouriteThings: ["Jupyter notebook", "GitHub", "VS Code"])/t
-print(; // Maybe README.md is hiding some text?)/t
+```js
+let Koumusictw = {
+    Name: 郭仲曜a.k.a Kou, 
+    Age: 16,
+    Hope: "musician and programmer. .-. ",
+    Description: "I'm learning to write HTML and C++.",
+    FavouriteLanguage: "Python",
+    FavouriteThings: ["Jupyter notebook", "GitHub", "VS Code"]
+}; // Maybe README.md is hiding some text?
+```
