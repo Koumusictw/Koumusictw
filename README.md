@@ -18,3 +18,8 @@ let Koumusictw = {
 <a href="https://jupyter.org/" target="_blank">
 <img class="navbar-logo" src="/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter Home" height="40" loading="eager">
 </a>
+
+#### 📊 Github stats
+<p align="center">
+  <a>
+   <img src="https://github-profile-trophy.vercel.app/?username=Koumusictw&theme=onedark"/>
