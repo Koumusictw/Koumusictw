@@ -9,3 +9,8 @@ let Koumusictw = {
     FavouriteThings: ["Jupyter notebook", "GitHub", "VS Code"]
 }; // Maybe README.md is hiding some text?
 ```
+
+#### 👨‍💻 Languages / Frameworks / Tools:
+<a href="https://www.python.org" target="_blank"> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</a>
