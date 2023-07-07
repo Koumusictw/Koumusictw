@@ -16,5 +16,5 @@ let Koumusictw = {
 </a>
 
 <a href="https://jupyter.org/" target="_blank">
-<img src="/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter Notebook" width="40" height="40"/>
+<img class="navbar-logo" src="/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg" alt="Jupyter Home" height="40" loading="eager">
 </a>
