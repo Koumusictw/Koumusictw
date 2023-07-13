@@ -1,7 +1,7 @@
 ### Hi there 👋
 ```js
-let Koumusictw = {
-    Name: Kou a.k.a 小冰, 
+let foxicetw = {
+    Name: 小冰, 
     Age: 16,
     Hope: "musician and programmer. .-. ",
     Description: "I'm learning to write HTML and C++.",
@@ -22,4 +22,6 @@ let Koumusictw = {
 #### 📊 Github stats
 <p align="center">
   <a>
-   <img src="https://github-profile-trophy.vercel.app/?username=Koumusictw&theme=onedark"/>
+   <img src="https://github-profile-trophy.vercel.app/?username=foxicetw&theme=onedark"/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xiaoxigua-1&langs_count=8&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=foxicetw&langs_count=8&theme=radical)https://github-readme-stats.vercel.app/api/top-langs/?username=foxicetw&langs_count=8&theme=radica)
