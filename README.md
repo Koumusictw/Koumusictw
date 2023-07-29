@@ -7,6 +7,8 @@ let foxicetw = {
     Description: "I'm learning to write HTML and C++.",
     FavouriteLanguage: "Python",
     FavouriteThings: ["Jupyter notebook", "GitHub", "VS Code"]
+    translater:["VS Code","PyCharm","Thonny"]
+    Work:["LineBot"]
 }; // Maybe README.md is hiding some text?
 ```
 
