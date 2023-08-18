@@ -26,4 +26,4 @@ let foxicetw = {
   <a>
    <img src="https://github-profile-trophy.vercel.app/?username=foxicetw&theme=onedark"/>
 
-![Top Langs]()
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=foxicetw&langs_count=8&theme=radical)
