@@ -8,7 +8,7 @@ let foxicetw = {
     FavouriteLanguage: "Python",
     FavouriteThings: ["Jupyter notebook", "GitHub", "VS Code"]
     mytranslater:["VS Code","PyCharm","Thonny"]
-    Work:["LineBot"]
+    Work:["LineBot,DiscordBot"]
 }; // Maybe README.md is hiding some text?
 ```
 
