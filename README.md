@@ -2,7 +2,7 @@
 ```js
 let foxicetw = {
     Name: 小冰, 
-    Age: 16,
+    Age: 17,
     Hope: "musician and programmer. .-. ",
     Description: "I'm learning to write HTML and C++.",
     FavouriteLanguage: "Python",
